@@ -1,0 +1,19 @@
+{
+  "name": "simp42/reactphp-examples",
+  "description": "example files for reactphp",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oliver Albers",
+      "email": "simp@php.net"
+    }
+  ],
+  "require": {
+    "react/react": "dev-master",
+    "clue/buzz-react": "dev-master",
+    "clue/block-react": "dev-master",
+    "react/mysql": "dev-master",
+    "recoil/react": "dev-master"
+  }
+}
